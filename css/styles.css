@@ -37,18 +37,18 @@ aside h3{
 }
 
 .header-container {
-  border-bottom: 1px solid hsl(134, 71%, 43%);
+  border-bottom: 1px solid #034472;
 }
 
 .footer-container,
 .main > aside {
-  border-top: 20px solid hsl(134, 71%, 43%);
+  border-top: 20px solid #034472;
 }
 
 .header-container,
 .footer-container,
 .main > aside {
-  background: hsl(134, 71%, 43%);
+  background: #034472;
 }
 
 header h1 {
@@ -82,12 +82,12 @@ header h1 {
 }
 
 h1 {
-  color:hsl(134, 71%, 43%);
+  color:#034472;
 }
 
 h2 {
-  color: hsl(134, 71%, 43%);
-  border-top: 1px solid hsl(134, 71%, 43%);
+  color: #034472;
+  border-top: 1px solid #034472;
   margin-bottom: 0;
   padding: 0.5em 0;
 }
@@ -567,7 +567,7 @@ input.related {
 }
 
 #rankings-table-container th {
-  background-color: hsl(134, 71%, 43%);
+  background-color: #034472;
   font-weight: bold;
   color: white;
 }
@@ -627,18 +627,18 @@ aside h3{
 }
 
 .header-container {
-  border-bottom: 1px solid hsl(134, 71%, 43%);
+  border-bottom: 1px solid #034472;
 }
 
 .footer-container,
 .main > aside {
-  border-top: 20px solid hsl(134, 71%, 43%);
+  border-top: 20px solid #034472;
 }
 
 .header-container,
 .footer-container,
 .main > aside {
-  background: hsl(134, 71%, 43%);
+  background: #034472;
 }
 
 header h1 {
@@ -672,12 +672,12 @@ header h1 {
 }
 
 h1 {
-  color:hsl(134, 71%, 43%);
+  color:#034472;
 }
 
 h2 {
-  color: hsl(134, 71%, 43%);
-  border-top: 1px solid hsl(134, 71%, 43%);
+  color: #034472;
+  border-top: 1px solid #034472;
   margin-bottom: 0;
   padding: 0.5em 0;
 }
@@ -1144,7 +1144,7 @@ input.related {
 }
 
 #rankings-table-container th {
-  background-color: hsl(134, 71%, 43%);
+  background-color: #034472;
   font-weight: bold;
   color: white;
 }
